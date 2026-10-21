@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "fix/issue-264-add-sdk-integration-health-report",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "fix/issue-264-add-sdk-integration-health-report": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "fix/issue-264-add-sdk-integration-health-report",
+    "origin"
+  ]
+}
